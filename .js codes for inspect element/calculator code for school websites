@@ -1,0 +1,1 @@
+javascript:expr=prompt('what is your question (eg: 1+1)','');if(expr!=null){with(Math){evl=parseFloat(eval(expr))};if(isNaN(evl)){alert('Really are you kidding me? Enter in a number, not that shit!')}else{alert(evl)}}else{void(null)}
