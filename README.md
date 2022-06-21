@@ -21,9 +21,6 @@ javascript codes is designed to help people prank other people at their work or 
 
 
 
-user counter
-"https://profile-counter.glitch.me/javascript-codes/count.svg"
-
 
 
 
